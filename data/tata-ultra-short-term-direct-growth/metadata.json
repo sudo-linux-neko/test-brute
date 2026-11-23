@@ -1,0 +1,130 @@
+{
+  "key": "ultra_short",
+  "data_subdir": "tata-ultra-short-term-direct-growth",
+  "file_prefix": "tata_ultra_short_direct_growth",
+  "fund_house": "Tata Mutual Fund",
+  "scheme_name_full": "Tata Ultra Short Term Fund - Direct Plan - Growth Option",
+  "scheme_name_short": "Tata Ultra Short Term Fund Direct Growth",
+  "tata_page_url": "https://www.tatamutualfund.com/mutual-funds/tata-ultra-short-term-fund-direct-growth",
+  "amfi_scheme_code": "146075",
+  "mfapi_scheme_code": 146075,
+  "isin_growth": "INF277K011T0",
+  "amfi_fund_house_code": "25",
+  "category": "Debt Scheme - Ultra Short Duration Fund",
+  "benchmark": "CRISIL Ultra Short Duration Debt A-I Index",
+  "additional_benchmark": "CRISIL 1 Year T-Bill Index",
+  "direct_inception": "2019-01-23",
+  "regular_inception": "2019-01-22",
+  "risk": "Moderate",
+  "benchmark_risk": "Low to Moderate",
+  "exit_load": "Nil",
+  "min_sip": 500,
+  "min_lumpsum": 5000,
+  "managers": [
+    "Amit Somani (since 15 Oct 2025)",
+    "Dhawal Joshi (since 15 Oct 2025)"
+  ],
+  "prc_matrix": "B-I",
+  "objective": "Generate regular income and capital appreciation via short-term debt/money market instruments with Macaulay duration 3-6 months.",
+  "snapshot_nav": "16.19 as on 25-Sep-2026",
+  "snapshot_aum_cr": "6116.80 (24-Sep-2026 Tata site)",
+  "snapshot_expense_pct": "0.26 (31-Aug-2026)",
+  "snapshot_ytm_pct": "7.14",
+  "snapshot_duration_months": "Macaulay 5.67M / Modified 5.44M / Avg Maturity 7.18M",
+  "snapshot_returns": "Since 6.47% / 1Y 6.93% / 3Y 7.50% / 5Y 6.73% (as on 31-Aug-2026)",
+  "sources": [
+    "https://www.tatamutualfund.com/mutual-funds/tata-ultra-short-term-fund-direct-growth",
+    "https://api.mfapi.in/mf/146075 (NAV history JSON)",
+    "https://www.amfiindia.com/spages/NAVAll.txt",
+    "https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25"
+  ],
+  "download": {
+    "downloaded_at": "2026-09-26T13:04:57",
+    "records": 1859,
+    "date_range": [
+      "2019-01-23",
+      "2026-09-25"
+    ],
+    "files": [
+      "nav_daily.csv",
+      "yearly_returns.csv"
+    ],
+    "primary_source": "https://api.mfapi.in/mf/146075",
+    "fallbacks": [
+      "https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25 (90-day blocks)",
+      "https://www.amfiindia.com/spages/NAVAll.txt"
+    ],
+    "stats": {
+      "records": 1859,
+      "from": "2019-01-23",
+      "to": "2026-09-25",
+      "first_nav": 10.0032,
+      "last_nav": 16.1891,
+      "min_nav": 10.0032,
+      "max_nav": 16.1914,
+      "cagr_since_direct_inception_pct": 6.48,
+      "trailing_1Y_pct": 7.0,
+      "trailing_3Y_pct": 7.5,
+      "trailing_5Y_pct": 6.78,
+      "trailing_10Y_pct": 6.48,
+      "yearly": [
+        {
+          "year": 2019,
+          "date": "2019-12-31",
+          "year_end_nav": 10.7261,
+          "annual_return_pct": null,
+          "observations": 226
+        },
+        {
+          "year": 2020,
+          "date": "2020-12-31",
+          "year_end_nav": 11.3365,
+          "annual_return_pct": 5.69,
+          "observations": 245
+        },
+        {
+          "year": 2021,
+          "date": "2021-12-31",
+          "year_end_nav": 11.778,
+          "annual_return_pct": 3.89,
+          "observations": 241
+        },
+        {
+          "year": 2022,
+          "date": "2022-12-30",
+          "year_end_nav": 12.3586,
+          "annual_return_pct": 4.93,
+          "observations": 243
+        },
+        {
+          "year": 2023,
+          "date": "2023-12-29",
+          "year_end_nav": 13.2731,
+          "annual_return_pct": 7.4,
+          "observations": 241
+        },
+        {
+          "year": 2024,
+          "date": "2024-12-31",
+          "year_end_nav": 14.3186,
+          "annual_return_pct": 7.88,
+          "observations": 242
+        },
+        {
+          "year": 2025,
+          "date": "2025-12-31",
+          "year_end_nav": 15.3887,
+          "annual_return_pct": 7.47,
+          "observations": 243
+        },
+        {
+          "year": 2026,
+          "date": "2026-09-25",
+          "year_end_nav": 16.1891,
+          "annual_return_pct": 5.2,
+          "observations": 178
+        }
+      ]
+    }
+  }
+}

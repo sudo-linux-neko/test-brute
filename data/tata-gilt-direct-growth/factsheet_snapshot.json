@@ -1,0 +1,42 @@
+{
+  "fund": "Tata Gilt Fund - Direct Plan - Growth Option",
+  "scheme_code": "119953",
+  "isin": "INF277K01OX7",
+  "factsheet_extra": {
+    "aum_cr_jul2026_paytm": 878.43,
+    "aum_cr_jun2026_factsheet": 919.79,
+    "aum_cr_aug2026_tata_site": 837.18,
+    "aum_cr_sep2026_tata_site": 775.9,
+    "ytm_pct_tata_site": 7.44,
+    "ytm_pct_jun2026_factsheet": 6.52,
+    "ytm_pct_aug2026_alt": 7.35,
+    "macaulay_duration": "10.52 Years (Tata site) / 6.5 Years (Jun-2026 factsheet)",
+    "modified_duration": "10.14 Years (Tata site) / 6.27 Years (Jun-2026 factsheet)",
+    "avg_maturity": "24.84 Years (Tata site) / 13.67 Years (Jun-2026 factsheet)",
+    "expense_direct_pct": 0.24,
+    "expense_regular_pct": 1.18,
+    "expense_paytm_snapshot_pct": 0.3,
+    "cash_holding_pct": 1.81,
+    "note": "Duration/YTM differ by date - gilt is long-duration, very rate-sensitive"
+  },
+  "risk_ratios": {
+    "std_deviation": 4.43,
+    "beta": 1.23,
+    "r_squared": 0.91,
+    "treynor": 0.02,
+    "jensen": -0.14,
+    "as_on": "Tata site Aug-Sep-2026"
+  },
+  "ratings": {
+    "arthgyaan": "2.93 stars, Moderate Risk",
+    "category": "24 gilt funds, Rs 32,390 Cr total, avg 3Y 7.2%"
+  },
+  "peers_file": "peers.csv",
+  "holdings_file": "holdings.csv",
+  "sources_extra": [
+    "https://www.tatamutualfund.com/system/files/2026-07/TataMF%20Factsheet%20-%20June%202026.pdf",
+    "https://www.tatamutualfund.com/mutual-funds/tata-gilt-securities-fund-direct-growth",
+    "https://www.paytmmoney.com/mutual-funds/scheme/tata-gilt-securities-fund-direct-growth/inf277k01ox7",
+    "https://arthgyaan.com/funds/categories/gilt-debt-funds"
+  ]
+}

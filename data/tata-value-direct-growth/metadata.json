@@ -1,0 +1,172 @@
+{
+  "key": "value",
+  "data_subdir": "tata-value-direct-growth",
+  "file_prefix": "tata_value_direct_growth",
+  "fund_house": "Tata Mutual Fund",
+  "scheme_name_full": "Tata Value Fund - Direct Plan - Growth Option",
+  "scheme_name_short": "Tata Value Fund Direct Growth",
+  "tata_page_url": "https://www.tatamutualfund.com/mutual-funds/tata-value-fund-direct-growth",
+  "amfi_scheme_code": "119231",
+  "mfapi_scheme_code": 119231,
+  "isin_growth": "INF277K01ND1",
+  "amfi_fund_house_code": "25",
+  "category": "Equity Scheme - Value Fund",
+  "benchmark": "Nifty 500 TRI",
+  "additional_benchmark": "Nifty 50 TRI",
+  "direct_inception": "2013-01-02",
+  "regular_inception": "2004-06-29",
+  "risk": "Very High",
+  "benchmark_risk": "Very High",
+  "exit_load": "0.50% on/before 30 days, NIL after",
+  "min_sip": 100,
+  "min_lumpsum": 5000,
+  "managers": [
+    "Sonam Udasi (since 01 Apr 2016)"
+  ],
+  "prc_matrix": "n/a (equity)",
+  "objective": "Growth-oriented value strategy: good stocks at cheap valuations (min 70% with 12M trailing P/E below BSE Sensex).",
+  "snapshot_nav": "393.47 as on 25-Sep-2026",
+  "snapshot_aum_cr": "8370.04 (24-Sep-2026 Tata site)",
+  "snapshot_expense_pct": "0.68 (31-Aug-2026)",
+  "snapshot_ytm_pct": "n/a (equity)",
+  "snapshot_duration_months": "n/a (equity)",
+  "snapshot_returns": "Since 16.44% / 1Y 8.05% / 3Y 14.88% / 5Y 14.56% (as on 31-Aug-2026)",
+  "snapshot_holdings": "ICICI Bank 9.37% / Shriram Finance 6.46% / Motilal Oswal Fin 5.30% / Coal India 4.87% / Muthoot Finance 4.46% (31-Aug-2026)",
+  "sources": [
+    "https://www.tatamutualfund.com/mutual-funds/tata-value-fund-direct-growth",
+    "https://api.mfapi.in/mf/119231 (NAV history JSON)",
+    "https://www.amfiindia.com/spages/NAVAll.txt",
+    "https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25"
+  ],
+  "download": {
+    "downloaded_at": "2026-09-26T13:04:58",
+    "records": 3380,
+    "date_range": [
+      "2013-01-02",
+      "2026-09-25"
+    ],
+    "files": [
+      "nav_daily.csv",
+      "yearly_returns.csv"
+    ],
+    "primary_source": "https://api.mfapi.in/mf/119231",
+    "fallbacks": [
+      "https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25 (90-day blocks)",
+      "https://www.amfiindia.com/spages/NAVAll.txt"
+    ],
+    "stats": {
+      "records": 3380,
+      "from": "2013-01-02",
+      "to": "2026-09-25",
+      "first_nav": 50.962,
+      "last_nav": 393.4689,
+      "min_nav": 39.6976,
+      "max_nav": 426.5096,
+      "cagr_since_direct_inception_pct": 16.05,
+      "trailing_1Y_pct": 0.94,
+      "trailing_3Y_pct": 12.93,
+      "trailing_5Y_pct": 12.85,
+      "trailing_10Y_pct": 14.03,
+      "yearly": [
+        {
+          "year": 2013,
+          "date": "2013-12-31",
+          "year_end_nav": 51.3717,
+          "annual_return_pct": null,
+          "observations": 247
+        },
+        {
+          "year": 2014,
+          "date": "2014-12-31",
+          "year_end_nav": 87.7357,
+          "annual_return_pct": 70.79,
+          "observations": 242
+        },
+        {
+          "year": 2015,
+          "date": "2015-12-31",
+          "year_end_nav": 88.5841,
+          "annual_return_pct": 0.97,
+          "observations": 246
+        },
+        {
+          "year": 2016,
+          "date": "2016-12-30",
+          "year_end_nav": 103.5692,
+          "annual_return_pct": 16.92,
+          "observations": 246
+        },
+        {
+          "year": 2017,
+          "date": "2017-12-29",
+          "year_end_nav": 145.6716,
+          "annual_return_pct": 40.65,
+          "observations": 247
+        },
+        {
+          "year": 2018,
+          "date": "2018-12-31",
+          "year_end_nav": 136.7992,
+          "annual_return_pct": -6.09,
+          "observations": 245
+        },
+        {
+          "year": 2019,
+          "date": "2019-12-31",
+          "year_end_nav": 146.395,
+          "annual_return_pct": 7.01,
+          "observations": 244
+        },
+        {
+          "year": 2020,
+          "date": "2020-12-31",
+          "year_end_nav": 166.9143,
+          "annual_return_pct": 14.02,
+          "observations": 250
+        },
+        {
+          "year": 2021,
+          "date": "2021-12-31",
+          "year_end_nav": 215.9673,
+          "annual_return_pct": 29.39,
+          "observations": 247
+        },
+        {
+          "year": 2022,
+          "date": "2022-12-30",
+          "year_end_nav": 231.1772,
+          "annual_return_pct": 7.04,
+          "observations": 247
+        },
+        {
+          "year": 2023,
+          "date": "2023-12-29",
+          "year_end_nav": 319.7986,
+          "annual_return_pct": 38.33,
+          "observations": 244
+        },
+        {
+          "year": 2024,
+          "date": "2024-12-31",
+          "year_end_nav": 393.0323,
+          "annual_return_pct": 22.9,
+          "observations": 246
+        },
+        {
+          "year": 2025,
+          "date": "2025-12-31",
+          "year_end_nav": 411.663,
+          "annual_return_pct": 4.74,
+          "observations": 247
+        },
+        {
+          "year": 2026,
+          "date": "2026-09-25",
+          "year_end_nav": 393.4689,
+          "annual_return_pct": -4.42,
+          "observations": 182
+        }
+      ]
+    }
+  }
+}

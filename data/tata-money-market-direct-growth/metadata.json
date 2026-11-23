@@ -1,0 +1,177 @@
+{
+  "key": "money_market",
+  "data_subdir": "tata-money-market-direct-growth",
+  "file_prefix": "tata_money_market_direct_growth_13Y",
+  "fund_house": "Tata Mutual Fund",
+  "scheme_name_full": "Tata Money Market Fund - Direct Plan - Growth Option",
+  "scheme_name_short": "Tata Money Market Fund Direct Growth",
+  "tata_page_url": "https://www.tatamutualfund.com/mutual-funds/tata-money-market-fund-direct-growth",
+  "amfi_scheme_code": "119424",
+  "mfapi_scheme_code": 119424,
+  "isin_growth": "INF277K01PR6",
+  "amfi_fund_house_code": "25",
+  "category": "Debt Scheme - Money Market Fund",
+  "benchmark": "CRISIL Money Market A-I Index",
+  "additional_benchmark": "CRISIL 1 Year T-Bill Index",
+  "direct_inception": "2013-01-01",
+  "regular_inception": "2003-05-22",
+  "risk": "Moderate",
+  "benchmark_risk": "Low to Moderate",
+  "exit_load": "Nil",
+  "min_sip": 500,
+  "min_lumpsum": 5000,
+  "managers": [
+    "Amit Somani (since 16 Oct 2013)",
+    "Harsh Dave (since 01 Jun 2026)"
+  ],
+  "prc_matrix": "B-I (Relatively Low Interest-Rate Risk, Moderate Credit Risk)",
+  "objective": "Generate returns with reasonable liquidity by investing in money market instruments.",
+  "snapshot_nav": "5217.90 as on 25-Sep-2026 (Tata site); 5195.96 as on 31-Aug-2026 (Groww); 5192.77 as on 28-Aug-2026 (ET Money/Paytm)",
+  "snapshot_aum_cr": "32346.66 (24-Sep-2026 Tata site) / 34138.15 (31-Jul-2026 factsheet)",
+  "snapshot_expense_pct": "0.15 (Tata site Aug-2026) / 0.18 incl. GST (fact sheets)",
+  "snapshot_ytm_pct": "6.74",
+  "snapshot_duration_months": "4.97-4.98 (Modified/Macaulay/Avg Maturity)",
+  "snapshot_returns": "1Y 6.61% / 3Y 7.54% / 5Y 6.81% / Since-inception ~6.77% (as on 31-Aug-2026)",
+  "sources": [
+    "https://www.tatamutualfund.com/mutual-funds/tata-money-market-fund-direct-growth",
+    "https://api.mfapi.in/mf/119424 (NAV history JSON)",
+    "https://www.amfiindia.com/spages/NAVAll.txt (official daily NAV)",
+    "https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25 (official history, 90-day max)",
+    "https://coin.zerodha.com/mf/fund/INF277K01PR6/tata-money-market-fund-direct-growth (ISIN + launch 2013-01-01)",
+    "https://www.advisorkhoj.com/mutual-funds-research/Tata-Money-Market-Fund-Direct-Plan-Growth-Option (Direct 01-01-2013)",
+    "https://www.etmoney.com/mutual-funds/tata-money-market-fund-direct-growth/16274 (13y7m, returns)",
+    "https://groww.in/mutual-funds/tata-money-market-fund-direct-growth",
+    "https://www.paytmmoney.com/mutual-funds/scheme/tata-money-market-fund-direct-growth/inf277k01pr6"
+  ],
+  "download": {
+    "downloaded_at": "2026-09-26T13:04:50",
+    "records": 3876,
+    "date_range": [
+      "2013-01-01",
+      "2026-09-25"
+    ],
+    "files": [
+      "nav_daily.csv",
+      "yearly_returns.csv"
+    ],
+    "primary_source": "https://api.mfapi.in/mf/119424",
+    "fallbacks": [
+      "https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25 (90-day blocks)",
+      "https://www.amfiindia.com/spages/NAVAll.txt"
+    ],
+    "stats": {
+      "records": 3876,
+      "from": "2013-01-01",
+      "to": "2026-09-25",
+      "first_nav": 2121.2605,
+      "last_nav": 5217.8998,
+      "min_nav": 2121.2605,
+      "max_nav": 5218.7053,
+      "cagr_since_direct_inception_pct": 6.78,
+      "trailing_1Y_pct": 6.65,
+      "trailing_3Y_pct": 7.53,
+      "trailing_5Y_pct": 6.86,
+      "trailing_10Y_pct": 6.05,
+      "yearly": [
+        {
+          "year": 2013,
+          "date": "2013-12-31",
+          "year_end_nav": 2317.8691,
+          "annual_return_pct": null,
+          "observations": 307
+        },
+        {
+          "year": 2014,
+          "date": "2014-12-31",
+          "year_end_nav": 2528.9007,
+          "annual_return_pct": 9.1,
+          "observations": 309
+        },
+        {
+          "year": 2015,
+          "date": "2015-12-31",
+          "year_end_nav": 2741.5109,
+          "annual_return_pct": 8.41,
+          "observations": 365
+        },
+        {
+          "year": 2016,
+          "date": "2016-12-31",
+          "year_end_nav": 2950.5124,
+          "annual_return_pct": 7.62,
+          "observations": 366
+        },
+        {
+          "year": 2017,
+          "date": "2017-12-31",
+          "year_end_nav": 3148.9466,
+          "annual_return_pct": 6.73,
+          "observations": 365
+        },
+        {
+          "year": 2018,
+          "date": "2018-12-31",
+          "year_end_nav": 3150.0781,
+          "annual_return_pct": 0.04,
+          "observations": 286
+        },
+        {
+          "year": 2019,
+          "date": "2019-12-31",
+          "year_end_nav": 3408.8824,
+          "annual_return_pct": 8.22,
+          "observations": 242
+        },
+        {
+          "year": 2020,
+          "date": "2020-12-31",
+          "year_end_nav": 3632.0086,
+          "annual_return_pct": 6.55,
+          "observations": 245
+        },
+        {
+          "year": 2021,
+          "date": "2021-12-31",
+          "year_end_nav": 3781.9785,
+          "annual_return_pct": 4.13,
+          "observations": 241
+        },
+        {
+          "year": 2022,
+          "date": "2022-12-30",
+          "year_end_nav": 3973.4179,
+          "annual_return_pct": 5.06,
+          "observations": 243
+        },
+        {
+          "year": 2023,
+          "date": "2023-12-29",
+          "year_end_nav": 4276.9029,
+          "annual_return_pct": 7.64,
+          "observations": 241
+        },
+        {
+          "year": 2024,
+          "date": "2024-12-31",
+          "year_end_nav": 4618.9462,
+          "annual_return_pct": 8.0,
+          "observations": 242
+        },
+        {
+          "year": 2025,
+          "date": "2025-12-31",
+          "year_end_nav": 4973.2248,
+          "annual_return_pct": 7.67,
+          "observations": 243
+        },
+        {
+          "year": 2026,
+          "date": "2026-09-25",
+          "year_end_nav": 5217.8998,
+          "annual_return_pct": 4.92,
+          "observations": 181
+        }
+      ]
+    }
+  }
+}

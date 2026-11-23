@@ -1,0 +1,34 @@
+TATA RETIREMENT SAVINGS FUND-PROGRESSIVE PLAN - DIRECT PLAN - GROWTH OPTION - DATASET
+==============================================================
+Scheme      : Tata Retirement Savings Fund-Progressive Plan - Direct Plan - Growth Option
+Code / ISIN : 119251 / INF277K01QO1
+Page        : https://www.tatamutualfund.com/mutual-funds/tata-retirement-savings-fund-progressive-plan-direct-growth
+Category    : Solution Oriented Scheme - Retirement Fund
+Benchmark   : Nifty 500 TRI (+ Nifty 50 TRI)
+Direct since: 2013-01-04 | Regular since: 2011-11-01
+Managers    : Sonam Udasi (since 01 Apr 2016), Murthy Nagarajan (since 01 Apr 2017)
+Risk/Exit   : Very High / Nil if >=60yrs or auto-switch trigger; else 1% if redeemed before 61 months (w.e.f 03-May-2019) | SIP 150 / Lumpsum 5000
+AUM/Expense : 2161.06 (24-Sep-2026 Tata site) Cr / 0.54 (31-Aug-2026)%
+YTM/Duration: n/a (equity-oriented)% / n/a (equity-oriented)
+
+DOWNLOAD
+  Records : 3377  (2013-01-04 -> 2026-09-25)
+  First NAV: 12.2975 | Last NAV: 83.0593
+  Min/Max  : 10.4749 / 86.8851
+  CAGR since Direct inception: 14.94%
+  Trailing 1Y/3Y/5Y/10Y %    : 6.28/13.09/10.16/13.62
+  Published returns: Since 15.39% / 1Y 12.21% / 3Y 14.77% / 5Y 11.85% (as on 31-Aug-2026)
+
+FILES
+  1. nav_daily.csv - daily NAV, ISO dates, sorted, deduped
+  2. yearly_returns.csv - year-end NAV + annual %
+  3. metadata.json - full fund facts + sources + stats
+  4. summary.txt - this file
+
+SOURCES
+  - https://www.tatamutualfund.com/mutual-funds/tata-retirement-savings-fund-progressive-plan-direct-growth
+  - https://api.mfapi.in/mf/119251 (NAV history JSON)
+  - https://www.amfiindia.com/spages/NAVAll.txt
+  - https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25
+
+NOTE: Tata site 'Fund Age 27y since 06 Sep 1999' = Regular plan age. Direct plan started Jan-2013 (first NAV 07-Jan-2013), so this file covers the FULL Direct-Growth history. NAV/returns move daily; snapshots above are dated.

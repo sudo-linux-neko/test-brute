@@ -1,0 +1,34 @@
+TATA SHORT TERM FUND - DIRECT PLAN - GROWTH OPTION - DATASET
+==============================================================
+Scheme      : Tata Short Term Fund - Direct Plan - Growth Option
+Code / ISIN : 119949 / INF277K01QR4
+Page        : https://www.tatamutualfund.com/mutual-funds/tata-short-term-fund-direct-growth
+Category    : Income/Debt Oriented Schemes - Short Term Fund
+Benchmark   : CRISIL Short Duration Debt A-II Index (+ CRISIL 10 Year Gilt Index)
+Direct since: 2013-01-02 | Regular since: 2002-08-08
+Managers    : Amit Somani (since 11 Jun 2025), Dhawal Joshi (since 01 Jun 2026)
+Risk/Exit   : Moderate / Nil (w.e.f 24 Jan 2019) | SIP 500 / Lumpsum 5000
+AUM/Expense : 2922.24 (24-Sep-2026 Tata site) Cr / 0.30 (31-Aug-2026)%
+YTM/Duration: 7.51% / Macaulay 2.27Y / Modified 2.15Y / Avg Maturity 2.73Y
+
+DOWNLOAD
+  Records : 3316  (2013-01-02 -> 2026-09-25)
+  First NAV: 21.1656 | Last NAV: 56.4444
+  Min/Max  : 21.1656 / 56.5998
+  CAGR since Direct inception: 7.41%
+  Trailing 1Y/3Y/5Y/10Y %    : 5.11/7.13/6.29/6.43
+  Published returns: Since 7.43% / 1Y 5.56% / 3Y 7.23% / 5Y 6.31% (as on 31-Aug-2026)
+
+FILES
+  1. nav_daily.csv - daily NAV, ISO dates, sorted, deduped
+  2. yearly_returns.csv - year-end NAV + annual %
+  3. metadata.json - full fund facts + sources + stats
+  4. summary.txt - this file
+
+SOURCES
+  - https://www.tatamutualfund.com/mutual-funds/tata-short-term-fund-direct-growth
+  - https://api.mfapi.in/mf/119949 (NAV history JSON)
+  - https://www.amfiindia.com/spages/NAVAll.txt
+  - https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25
+
+NOTE: Tata site 'Fund Age 27y since 06 Sep 1999' = Regular plan age. Direct plan started Jan-2013 (first NAV 07-Jan-2013), so this file covers the FULL Direct-Growth history. NAV/returns move daily; snapshots above are dated.

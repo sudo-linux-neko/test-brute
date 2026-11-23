@@ -1,0 +1,11 @@
+{
+  "fund_subdir": "tata-ultra-short-term-direct-growth",
+  "as_on": "Tata site 24/25-Sep-2026, returns/expense 31-Aug-2026",
+  "aum": "6116.80 Cr 24-Sep-2026",
+  "ytm": "7.14%",
+  "duration": "Macaulay 5.67M / Modified 5.44M / Avg 7.18M",
+  "expense": "0.26% 31-Aug-2026",
+  "returns": "Since 6.47% / 1Y 6.93% / 3Y 7.50% / 5Y 6.73%",
+  "holdings_file": "holdings.csv",
+  "note": "Peers: Tata pages show only Tata cross-category Similar Funds, no category-peer 3Y table"
+}

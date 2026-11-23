@@ -1,0 +1,46 @@
+{
+  "project": "tata-mutual-fund-harvester",
+  "updated_at": "2026-09-26",
+  "fund_count": 15,
+  "funds": [
+    "tata-banking-and-financial-services-direct-growth",
+    "tata-business-cycle-direct-growth",
+    "tata-dividend-yield-direct-growth",
+    "tata-flexi-cap-direct-growth",
+    "tata-focused-direct-growth",
+    "tata-gilt-direct-growth",
+    "tata-housing-opportunities-direct-growth",
+    "tata-india-consumer-direct-growth",
+    "tata-large-and-mid-cap-direct-growth",
+    "tata-money-market-direct-growth",
+    "tata-resources-and-energy-direct-growth",
+    "tata-retirement-savings-progressive-direct-growth",
+    "tata-short-term-direct-growth",
+    "tata-ultra-short-term-direct-growth",
+    "tata-value-direct-growth"
+  ],
+  "codes": {
+    "tata-banking-and-financial-services-direct-growth": "135793",
+    "tata-business-cycle-direct-growth": "149071",
+    "tata-dividend-yield-direct-growth": "148947",
+    "tata-flexi-cap-direct-growth": "144546",
+    "tata-focused-direct-growth": "147757",
+    "tata-gilt-direct-growth": "119953",
+    "tata-housing-opportunities-direct-growth": "150532",
+    "tata-india-consumer-direct-growth": "135805",
+    "tata-large-and-mid-cap-direct-growth": "119202",
+    "tata-money-market-direct-growth": "119424",
+    "tata-resources-and-energy-direct-growth": "135813",
+    "tata-retirement-savings-progressive-direct-growth": "119251",
+    "tata-short-term-direct-growth": "119949",
+    "tata-ultra-short-term-direct-growth": "146075",
+    "tata-value-direct-growth": "119231"
+  },
+  "sources_primary": [
+    "https://api.mfapi.in/mf/{code}"
+  ],
+  "sources_official": [
+    "https://www.amfiindia.com/spages/NAVAll.txt",
+    "https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25"
+  ]
+}

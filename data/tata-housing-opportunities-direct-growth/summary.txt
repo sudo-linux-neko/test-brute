@@ -1,0 +1,34 @@
+TATA HOUSING OPPORTUNITIES FUND - DIRECT PLAN - GROWTH OPTION - DATASET
+==============================================================
+Scheme      : TATA HOUSING OPPORTUNITIES FUND - Direct Plan - Growth Option
+Code / ISIN : 150532 / INF277KA1497
+Page        : https://www.tatamutualfund.com/mutual-funds/tata-housing-opportunities-fund-direct-growth
+Category    : Equity Scheme - Sectoral/Thematic (Housing)
+Benchmark   : NIFTY Housing Index TRI (+ Nifty 50 TRI)
+Direct since: 2022-09-09 | Regular since: 2022-09-02
+Managers    : Murthy Nagarajan (since 16 Aug 2022), Hasmukh Vishariya (since 01 Mar 2025), Kapil Malhotra (since 01 Jul 2025), Aditya Bagul (since 01 Jul 2025)
+Risk/Exit   : Very High / 365d: <=12% cost NIL, >12% 1%; >365d NIL | SIP 100 / Lumpsum 5000
+AUM/Expense : 458.45 (24-Sep-2026 Tata site) Cr / 0.75 (31-Aug-2026)%
+YTM/Duration: n/a (equity)% / n/a (equity)
+
+DOWNLOAD
+  Records : 996  (2022-09-09 -> 2026-09-25)
+  First NAV: 10.0701 | Last NAV: 15.5211
+  Min/Max  : 9.6975 / 17.7224
+  CAGR since Direct inception: 11.29%
+  Trailing 1Y/3Y/5Y/10Y %    : -1.57/7.74/11.29/11.29
+  Published returns: Since 12.32% / 1Y 1.96% / 3Y 8.64% / 5Y NA (as on 31-Aug-2026)
+
+FILES
+  1. nav_daily.csv - daily NAV, ISO dates, sorted, deduped
+  2. yearly_returns.csv - year-end NAV + annual %
+  3. metadata.json - full fund facts + sources + stats
+  4. summary.txt - this file
+
+SOURCES
+  - https://www.tatamutualfund.com/mutual-funds/tata-housing-opportunities-fund-direct-growth
+  - https://api.mfapi.in/mf/150532 (NAV history JSON)
+  - https://www.amfiindia.com/spages/NAVAll.txt
+  - https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25
+
+NOTE: Tata site 'Fund Age 27y since 06 Sep 1999' = Regular plan age. Direct plan started Jan-2013 (first NAV 07-Jan-2013), so this file covers the FULL Direct-Growth history. NAV/returns move daily; snapshots above are dated.

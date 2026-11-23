@@ -1,0 +1,44 @@
+{
+  "fund": "Tata Money Market Fund - Direct Plan - Growth Option",
+  "scheme_code": "119424",
+  "isin": "INF277K01PR6",
+  "factsheet_extra": {
+    "aum_cr_jul2026": 34138.15,
+    "aum_cr_jun2026": 32150.05,
+    "aum_cr_sep2026_tata_site": 32346.66,
+    "ytm_pct_jul2026": 6.94,
+    "ytm_pct_jun2026": 6.81,
+    "macaulay_duration": "5.67 Months (Jul-2026) / 6.16 Months (Jun-2026)",
+    "modified_duration": "5.67 Months (Jul-2026) / 6.16 Months (Jun-2026)",
+    "avg_maturity": "5.67 Months (Jul-2026) / 6.16 Months (Jun-2026)",
+    "expense_direct_pct": 0.15,
+    "expense_regular_pct": 0.37,
+    "expense_total_incl_gst_pct": 0.18,
+    "turnover_pct": 322.06,
+    "cash_holding_pct": -0.03
+  },
+  "risk_ratios": {
+    "std_deviation": 0.52,
+    "beta": 1.32,
+    "sharpe": 2.93,
+    "sortino": 4.24,
+    "alpha_3Y": 0.34,
+    "info_ratio_3Y": 2.92,
+    "as_on": "ETMoney/INDmoney Jul-Aug-2026"
+  },
+  "ratings": {
+    "et_money": "4 star",
+    "value_research": "4-5 star (No.1 in 3Y returns 7.54%)",
+    "morningstar": "4",
+    "indmoney_rank": "2/21 in Money Market"
+  },
+  "peers_file": "peers.csv",
+  "holdings_file": "holdings.csv",
+  "sources_extra": [
+    "https://www.tatamutualfund.com/system/files/2026-07/TataMF%20Factsheet%20-%20June%202026.pdf",
+    "https://info.tatamutualfund.com/combined/Tata%20MF%20Fact%20Sheet%20-%20July%202026.pdf",
+    "https://www.etmoney.com/mutual-funds/tata-money-market-fund-direct-growth/16274",
+    "https://www.paytmmoney.com/mutual-funds/scheme/tata-money-market-fund-direct-growth/inf277k01pr6",
+    "https://www.indmoney.com/mutual-funds/tata-money-market-fund-direct-plan-growth"
+  ]
+}

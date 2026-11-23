@@ -1,0 +1,131 @@
+{
+  "key": "focused",
+  "data_subdir": "tata-focused-direct-growth",
+  "file_prefix": "tata_focused_direct_growth",
+  "fund_house": "Tata Mutual Fund",
+  "scheme_name_full": "Tata Focused Fund - Direct Plan - Growth Option",
+  "scheme_name_short": "Tata Focused Fund Direct Growth",
+  "tata_page_url": "https://www.tatamutualfund.com/mutual-funds/tata-focused-fund-direct-growth",
+  "amfi_scheme_code": "147757",
+  "mfapi_scheme_code": 147757,
+  "isin_growth": "INF277K017X9",
+  "amfi_fund_house_code": "25",
+  "category": "Equity Scheme - Focused Fund",
+  "benchmark": "Nifty 500 TRI",
+  "additional_benchmark": "Nifty 50 TRI",
+  "direct_inception": "2019-12-06",
+  "regular_inception": "2019-12-05",
+  "risk": "Very High",
+  "benchmark_risk": "Very High",
+  "exit_load": "0.50% on/before 30 days, NIL after",
+  "min_sip": 100,
+  "min_lumpsum": 5000,
+  "managers": [
+    "Anand Sharma (since 03 Oct 2025)",
+    "Hasmukh Vishariya (since 01 Mar 2025)"
+  ],
+  "prc_matrix": "n/a (equity)",
+  "objective": "Concentrated max-30-stock GARP bottom-up portfolio across market caps/sectors for long-term wealth.",
+  "snapshot_nav": "24.57 as on 25-Sep-2026",
+  "snapshot_aum_cr": "1661.41 (24-Sep-2026 Tata site)",
+  "snapshot_expense_pct": "0.62 (31-Aug-2026)",
+  "snapshot_ytm_pct": "n/a (equity)",
+  "snapshot_duration_months": "n/a (equity)",
+  "snapshot_returns": "Since 15.00% / 1Y 1.67% / 3Y 11.52% / 5Y 10.87% (as on 31-Aug-2026)",
+  "snapshot_holdings": "ICICI Bank 7.72% / HDFC Bank 7.02% / Axis Bank 6.18% / UltraTech 5.04% / Reliance 4.90% (31-Aug-2026)",
+  "sources": [
+    "https://www.tatamutualfund.com/mutual-funds/tata-focused-fund-direct-growth",
+    "https://api.mfapi.in/mf/147757 (NAV history JSON)",
+    "https://www.amfiindia.com/spages/NAVAll.txt",
+    "https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25"
+  ],
+  "download": {
+    "downloaded_at": "2026-09-26T13:04:43",
+    "records": 1680,
+    "date_range": [
+      "2019-12-06",
+      "2026-09-25"
+    ],
+    "files": [
+      "nav_daily.csv",
+      "yearly_returns.csv"
+    ],
+    "primary_source": "https://api.mfapi.in/mf/147757",
+    "fallbacks": [
+      "https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25 (90-day blocks)",
+      "https://www.amfiindia.com/spages/NAVAll.txt"
+    ],
+    "stats": {
+      "records": 1680,
+      "from": "2019-12-06",
+      "to": "2026-09-25",
+      "first_nav": 9.9905,
+      "last_nav": 24.5708,
+      "min_nav": 6.4379,
+      "max_nav": 27.7178,
+      "cagr_since_direct_inception_pct": 14.14,
+      "trailing_1Y_pct": -4.56,
+      "trailing_3Y_pct": 9.44,
+      "trailing_5Y_pct": 9.3,
+      "trailing_10Y_pct": 14.14,
+      "yearly": [
+        {
+          "year": 2019,
+          "date": "2019-12-31",
+          "year_end_nav": 10.0999,
+          "annual_return_pct": null,
+          "observations": 17
+        },
+        {
+          "year": 2020,
+          "date": "2020-12-31",
+          "year_end_nav": 11.5254,
+          "annual_return_pct": 14.11,
+          "observations": 250
+        },
+        {
+          "year": 2021,
+          "date": "2021-12-31",
+          "year_end_nav": 15.6066,
+          "annual_return_pct": 35.41,
+          "observations": 247
+        },
+        {
+          "year": 2022,
+          "date": "2022-12-30",
+          "year_end_nav": 16.6328,
+          "annual_return_pct": 6.58,
+          "observations": 247
+        },
+        {
+          "year": 2023,
+          "date": "2023-12-29",
+          "year_end_nav": 21.5919,
+          "annual_return_pct": 29.82,
+          "observations": 244
+        },
+        {
+          "year": 2024,
+          "date": "2024-12-31",
+          "year_end_nav": 25.9081,
+          "annual_return_pct": 19.99,
+          "observations": 246
+        },
+        {
+          "year": 2025,
+          "date": "2025-12-31",
+          "year_end_nav": 26.264,
+          "annual_return_pct": 1.37,
+          "observations": 247
+        },
+        {
+          "year": 2026,
+          "date": "2026-09-25",
+          "year_end_nav": 24.5708,
+          "annual_return_pct": -6.45,
+          "observations": 182
+        }
+      ]
+    }
+  }
+}

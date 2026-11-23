@@ -1,0 +1,34 @@
+TATA BANKING & FINANCIAL SERVICES FUND - DIRECT PLAN - GROWTH OPTION - DATASET
+==============================================================
+Scheme      : Tata Banking & Financial Services Fund - Direct Plan - Growth Option
+Code / ISIN : 135793 / INF277K01Z10
+Page        : https://www.tatamutualfund.com/mutual-funds/tata-banking-and-financial-services-fund-direct-growth
+Category    : Equity Scheme - Sectoral/Thematic
+Benchmark   : Nifty Financial Services TRI (+ Nifty 50 TRI)
+Direct since: 2015-12-29 | Regular since: 2015-12-28
+Managers    : Kapil Malhotra (since 31 Oct 2025)
+Risk/Exit   : Very High / 0.25% if redeemed/switched before 30 days | SIP 100 / Lumpsum 5000
+AUM/Expense : 3095.45 (24-Sep-2026 Tata site) Cr / 0.49 (31-Aug-2026)%
+YTM/Duration: n/a (equity)% / n/a (equity)
+
+DOWNLOAD
+  Records : 2648  (2015-12-29 -> 2026-09-25)
+  First NAV: 10.0464 | Last NAV: 50.3012
+  Min/Max  : 8.8012 / 54.3919
+  CAGR since Direct inception: 16.18%
+  Trailing 1Y/3Y/5Y/10Y %    : 1.66/11.22/11.38/14.2
+  Published returns: Since 17.01% / 1Y 11.20% / 3Y 13.79% / 5Y 13.10% (as on 31-Aug-2026)
+
+FILES
+  1. nav_daily.csv - daily NAV, ISO dates, sorted, deduped
+  2. yearly_returns.csv - year-end NAV + annual %
+  3. metadata.json - full fund facts + sources + stats
+  4. summary.txt - this file
+
+SOURCES
+  - https://www.tatamutualfund.com/mutual-funds/tata-banking-and-financial-services-fund-direct-growth
+  - https://api.mfapi.in/mf/135793 (NAV history JSON)
+  - https://www.amfiindia.com/spages/NAVAll.txt
+  - https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25
+
+NOTE: Tata site 'Fund Age 27y since 06 Sep 1999' = Regular plan age. Direct plan started Jan-2013 (first NAV 07-Jan-2013), so this file covers the FULL Direct-Growth history. NAV/returns move daily; snapshots above are dated.

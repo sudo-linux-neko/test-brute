@@ -1,0 +1,34 @@
+TATA FLEXI CAP FUND - DIRECT PLAN - GROWTH OPTION - DATASET
+==============================================================
+Scheme      : Tata Flexi Cap Fund - Direct Plan - Growth Option
+Code / ISIN : 144546 / INF277K015K0
+Page        : https://www.tatamutualfund.com/mutual-funds/tata-flexi-cap-fund-direct-growth
+Category    : Equity Scheme - Flexi Cap Fund
+Benchmark   : Nifty 500 TRI (+ Nifty 50 TRI)
+Direct since: 2018-09-10 | Regular since: 2018-09-06
+Managers    : Anand Sharma (since 03 Oct 2025), Aditya Bagul (since 03 Oct 2023)
+Risk/Exit   : Very High / 0.50% on/before 30 days, NIL after | SIP 100 / Lumpsum 5000
+AUM/Expense : 3520.58 (24-Sep-2026 Tata site) Cr / 0.58 (31-Aug-2026)%
+YTM/Duration: n/a (equity)% / n/a (equity)
+
+DOWNLOAD
+  Records : 1980  (2018-09-10 -> 2026-09-25)
+  First NAV: 9.9919 | Last NAV: 25.7792
+  Min/Max  : 7.8513 / 28.1138
+  CAGR since Direct inception: 12.51%
+  Trailing 1Y/3Y/5Y/10Y %    : -5.08/9.83/8.31/12.51
+  Published returns: Since 13.04% / 1Y 0.25% / 3Y 11.28% / 5Y 9.98% (as on 31-Aug-2026)
+
+FILES
+  1. nav_daily.csv - daily NAV, ISO dates, sorted, deduped
+  2. yearly_returns.csv - year-end NAV + annual %
+  3. metadata.json - full fund facts + sources + stats
+  4. summary.txt - this file
+
+SOURCES
+  - https://www.tatamutualfund.com/mutual-funds/tata-flexi-cap-fund-direct-growth
+  - https://api.mfapi.in/mf/144546 (NAV history JSON)
+  - https://www.amfiindia.com/spages/NAVAll.txt
+  - https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25
+
+NOTE: Tata site 'Fund Age 27y since 06 Sep 1999' = Regular plan age. Direct plan started Jan-2013 (first NAV 07-Jan-2013), so this file covers the FULL Direct-Growth history. NAV/returns move daily; snapshots above are dated.

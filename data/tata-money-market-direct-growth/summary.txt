@@ -1,0 +1,39 @@
+TATA MONEY MARKET FUND - DIRECT PLAN - GROWTH OPTION - DATASET
+==============================================================
+Scheme      : Tata Money Market Fund - Direct Plan - Growth Option
+Code / ISIN : 119424 / INF277K01PR6
+Page        : https://www.tatamutualfund.com/mutual-funds/tata-money-market-fund-direct-growth
+Category    : Debt Scheme - Money Market Fund
+Benchmark   : CRISIL Money Market A-I Index (+ CRISIL 1 Year T-Bill Index)
+Direct since: 2013-01-01 | Regular since: 2003-05-22
+Managers    : Amit Somani (since 16 Oct 2013), Harsh Dave (since 01 Jun 2026)
+Risk/Exit   : Moderate / Nil | SIP 500 / Lumpsum 5000
+AUM/Expense : 32346.66 (24-Sep-2026 Tata site) / 34138.15 (31-Jul-2026 factsheet) Cr / 0.15 (Tata site Aug-2026) / 0.18 incl. GST (fact sheets)%
+YTM/Duration: 6.74% / 4.97-4.98 (Modified/Macaulay/Avg Maturity)
+
+DOWNLOAD
+  Records : 3876  (2013-01-01 -> 2026-09-25)
+  First NAV: 2121.2605 | Last NAV: 5217.8998
+  Min/Max  : 2121.2605 / 5218.7053
+  CAGR since Direct inception: 6.78%
+  Trailing 1Y/3Y/5Y/10Y %    : 6.65/7.53/6.86/6.05
+  Published returns: 1Y 6.61% / 3Y 7.54% / 5Y 6.81% / Since-inception ~6.77% (as on 31-Aug-2026)
+
+FILES
+  1. nav_daily.csv - daily NAV, ISO dates, sorted, deduped
+  2. yearly_returns.csv - year-end NAV + annual %
+  3. metadata.json - full fund facts + sources + stats
+  4. summary.txt - this file
+
+SOURCES
+  - https://www.tatamutualfund.com/mutual-funds/tata-money-market-fund-direct-growth
+  - https://api.mfapi.in/mf/119424 (NAV history JSON)
+  - https://www.amfiindia.com/spages/NAVAll.txt (official daily NAV)
+  - https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25 (official history, 90-day max)
+  - https://coin.zerodha.com/mf/fund/INF277K01PR6/tata-money-market-fund-direct-growth (ISIN + launch 2013-01-01)
+  - https://www.advisorkhoj.com/mutual-funds-research/Tata-Money-Market-Fund-Direct-Plan-Growth-Option (Direct 01-01-2013)
+  - https://www.etmoney.com/mutual-funds/tata-money-market-fund-direct-growth/16274 (13y7m, returns)
+  - https://groww.in/mutual-funds/tata-money-market-fund-direct-growth
+  - https://www.paytmmoney.com/mutual-funds/scheme/tata-money-market-fund-direct-growth/inf277k01pr6
+
+NOTE: Tata site 'Fund Age 23y since 22 May 2003' = Regular plan age. Direct plan started 01-Jan-2013, so this file covers the FULL Direct-Growth history (~13 years). NAV/returns move daily; snapshots above are dated.

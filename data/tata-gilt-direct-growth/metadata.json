@@ -1,0 +1,172 @@
+{
+  "key": "gilt",
+  "data_subdir": "tata-gilt-direct-growth",
+  "file_prefix": "tata_gilt_direct_growth",
+  "fund_house": "Tata Mutual Fund",
+  "scheme_name_full": "Tata Gilt Fund - Direct Plan - Growth Option",
+  "scheme_name_short": "Tata Gilt Fund Direct Growth",
+  "tata_page_url": "https://www.tatamutualfund.com/mutual-funds/tata-gilt-fund-direct-growth",
+  "amfi_scheme_code": "119953",
+  "mfapi_scheme_code": 119953,
+  "isin_growth": "INF277K01OX7",
+  "amfi_fund_house_code": "25",
+  "category": "Debt Scheme - Gilt Fund",
+  "benchmark": "CRISIL Dynamic Gilt Index (AIII)",
+  "additional_benchmark": "CRISIL 10 Year Gilt Index",
+  "direct_inception": "2013-01-07",
+  "regular_inception": "1999-09-06",
+  "risk": "Moderate",
+  "benchmark_risk": "Moderate",
+  "exit_load": "Nil (w.e.f. 2 Nov 2018)",
+  "min_sip": 500,
+  "min_lumpsum": 5000,
+  "managers": [
+    "Akhil Mittal (since 01 Mar 2022)",
+    "Puja Kasat (since 01 Jun 2026)"
+  ],
+  "prc_matrix": "A-III (Relatively High Interest-Rate Risk, Relatively Low Credit Risk)",
+  "objective": "Generate medium to long term capital appreciation and income by investing predominantly in Government Securities.",
+  "snapshot_nav": "90.26 as on 25-Sep-2026 (Tata site); 90.2578 mfapi/AMFI",
+  "snapshot_aum_cr": "775.90 (24-Sep-2026 Tata site)",
+  "snapshot_expense_pct": "0.24 (31-Aug-2026)",
+  "snapshot_ytm_pct": "7.44",
+  "snapshot_duration_months": "Macaulay 10.52Y / Modified 10.14Y / Avg Maturity 24.84Y; StdDev 4.43, Beta 1.23, R2 0.91",
+  "snapshot_returns": "Since-inception 7.80% / 1Y 5.40% / 3Y 6.69% / 5Y 6.09% (as on 31-Aug-2026, Tata site)",
+  "sources": [
+    "https://www.tatamutualfund.com/mutual-funds/tata-gilt-fund-direct-growth",
+    "https://api.mfapi.in/mf/119953 (NAV history JSON)",
+    "https://www.amfiindia.com/spages/NAVAll.txt (official daily NAV)",
+    "https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25 (official history, 90-day max)"
+  ],
+  "download": {
+    "downloaded_at": "2026-09-26T13:04:45",
+    "records": 3313,
+    "date_range": [
+      "2013-01-07",
+      "2026-09-25"
+    ],
+    "files": [
+      "nav_daily.csv",
+      "yearly_returns.csv"
+    ],
+    "primary_source": "https://api.mfapi.in/mf/119953",
+    "fallbacks": [
+      "https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25 (90-day blocks)",
+      "https://www.amfiindia.com/spages/NAVAll.txt"
+    ],
+    "stats": {
+      "records": 3313,
+      "from": "2013-01-07",
+      "to": "2026-09-25",
+      "first_nav": 32.8076,
+      "last_nav": 90.2578,
+      "min_nav": 31.988,
+      "max_nav": 92.1915,
+      "cagr_since_direct_inception_pct": 7.66,
+      "trailing_1Y_pct": 3.0,
+      "trailing_3Y_pct": 6.32,
+      "trailing_5Y_pct": 5.84,
+      "trailing_10Y_pct": 6.46,
+      "yearly": [
+        {
+          "year": 2013,
+          "date": "2013-12-31",
+          "year_end_nav": 34.2633,
+          "annual_return_pct": null,
+          "observations": 239
+        },
+        {
+          "year": 2014,
+          "date": "2014-12-31",
+          "year_end_nav": 40.6589,
+          "annual_return_pct": 18.67,
+          "observations": 235
+        },
+        {
+          "year": 2015,
+          "date": "2015-12-31",
+          "year_end_nav": 43.4965,
+          "annual_return_pct": 6.98,
+          "observations": 241
+        },
+        {
+          "year": 2016,
+          "date": "2016-12-30",
+          "year_end_nav": 49.6931,
+          "annual_return_pct": 14.25,
+          "observations": 241
+        },
+        {
+          "year": 2017,
+          "date": "2017-12-29",
+          "year_end_nav": 51.5783,
+          "annual_return_pct": 3.79,
+          "observations": 242
+        },
+        {
+          "year": 2018,
+          "date": "2018-12-31",
+          "year_end_nav": 54.7517,
+          "annual_return_pct": 6.15,
+          "observations": 240
+        },
+        {
+          "year": 2019,
+          "date": "2019-12-31",
+          "year_end_nav": 60.5114,
+          "annual_return_pct": 10.52,
+          "observations": 242
+        },
+        {
+          "year": 2020,
+          "date": "2020-12-31",
+          "year_end_nav": 66.9548,
+          "annual_return_pct": 10.65,
+          "observations": 245
+        },
+        {
+          "year": 2021,
+          "date": "2021-12-31",
+          "year_end_nav": 68.0659,
+          "annual_return_pct": 1.66,
+          "observations": 241
+        },
+        {
+          "year": 2022,
+          "date": "2022-12-30",
+          "year_end_nav": 70.2894,
+          "annual_return_pct": 3.27,
+          "observations": 243
+        },
+        {
+          "year": 2023,
+          "date": "2023-12-29",
+          "year_end_nav": 76.1874,
+          "annual_return_pct": 8.39,
+          "observations": 241
+        },
+        {
+          "year": 2024,
+          "date": "2024-12-31",
+          "year_end_nav": 83.4485,
+          "annual_return_pct": 9.53,
+          "observations": 242
+        },
+        {
+          "year": 2025,
+          "date": "2025-12-31",
+          "year_end_nav": 88.3418,
+          "annual_return_pct": 5.86,
+          "observations": 243
+        },
+        {
+          "year": 2026,
+          "date": "2026-09-25",
+          "year_end_nav": 90.2578,
+          "annual_return_pct": 2.17,
+          "observations": 178
+        }
+      ]
+    }
+  }
+}

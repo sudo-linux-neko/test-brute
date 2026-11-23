@@ -1,0 +1,112 @@
+{
+  "key": "housing",
+  "data_subdir": "tata-housing-opportunities-direct-growth",
+  "file_prefix": "tata_housing_direct_growth",
+  "fund_house": "Tata Mutual Fund",
+  "scheme_name_full": "TATA HOUSING OPPORTUNITIES FUND - Direct Plan - Growth Option",
+  "scheme_name_short": "Tata Housing Opportunities Fund Direct Growth",
+  "tata_page_url": "https://www.tatamutualfund.com/mutual-funds/tata-housing-opportunities-fund-direct-growth",
+  "amfi_scheme_code": "150532",
+  "mfapi_scheme_code": 150532,
+  "isin_growth": "INF277KA1497",
+  "amfi_fund_house_code": "25",
+  "category": "Equity Scheme - Sectoral/Thematic (Housing)",
+  "benchmark": "NIFTY Housing Index TRI",
+  "additional_benchmark": "Nifty 50 TRI",
+  "direct_inception": "2022-09-09",
+  "regular_inception": "2022-09-02",
+  "risk": "Very High",
+  "benchmark_risk": "Very High",
+  "exit_load": "365d: <=12% cost NIL, >12% 1%; >365d NIL",
+  "min_sip": 100,
+  "min_lumpsum": 5000,
+  "managers": [
+    "Murthy Nagarajan (since 16 Aug 2022)",
+    "Hasmukh Vishariya (since 01 Mar 2025)",
+    "Kapil Malhotra (since 01 Jul 2025)",
+    "Aditya Bagul (since 01 Jul 2025)"
+  ],
+  "prc_matrix": "n/a (equity)",
+  "objective": "Long-term wealth from housing theme: allied materials/products/services benefiting from real-estate cycle.",
+  "snapshot_nav": "15.52 as on 25-Sep-2026",
+  "snapshot_aum_cr": "458.45 (24-Sep-2026 Tata site)",
+  "snapshot_expense_pct": "0.75 (31-Aug-2026)",
+  "snapshot_ytm_pct": "n/a (equity)",
+  "snapshot_duration_months": "n/a (equity)",
+  "snapshot_returns": "Since 12.32% / 1Y 1.96% / 3Y 8.64% / 5Y NA (as on 31-Aug-2026)",
+  "snapshot_holdings": "HDFC Bank 8.85% / UltraTech 8.32% / ICICI Bank 7.29% / L&T 5.65% / Prestige Estates 5.29% (31-Aug-2026)",
+  "sources": [
+    "https://www.tatamutualfund.com/mutual-funds/tata-housing-opportunities-fund-direct-growth",
+    "https://api.mfapi.in/mf/150532 (NAV history JSON)",
+    "https://www.amfiindia.com/spages/NAVAll.txt",
+    "https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25"
+  ],
+  "download": {
+    "downloaded_at": "2026-09-26T13:04:46",
+    "records": 996,
+    "date_range": [
+      "2022-09-09",
+      "2026-09-25"
+    ],
+    "files": [
+      "nav_daily.csv",
+      "yearly_returns.csv"
+    ],
+    "primary_source": "https://api.mfapi.in/mf/150532",
+    "fallbacks": [
+      "https://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?mf=25 (90-day blocks)",
+      "https://www.amfiindia.com/spages/NAVAll.txt"
+    ],
+    "stats": {
+      "records": 996,
+      "from": "2022-09-09",
+      "to": "2026-09-25",
+      "first_nav": 10.0701,
+      "last_nav": 15.5211,
+      "min_nav": 9.6975,
+      "max_nav": 17.7224,
+      "cagr_since_direct_inception_pct": 11.29,
+      "trailing_1Y_pct": -1.57,
+      "trailing_3Y_pct": 7.74,
+      "trailing_5Y_pct": 11.29,
+      "trailing_10Y_pct": 11.29,
+      "yearly": [
+        {
+          "year": 2022,
+          "date": "2022-12-30",
+          "year_end_nav": 10.0281,
+          "annual_return_pct": null,
+          "observations": 77
+        },
+        {
+          "year": 2023,
+          "date": "2023-12-29",
+          "year_end_nav": 14.1966,
+          "annual_return_pct": 41.57,
+          "observations": 244
+        },
+        {
+          "year": 2024,
+          "date": "2024-12-31",
+          "year_end_nav": 16.1874,
+          "annual_return_pct": 14.02,
+          "observations": 246
+        },
+        {
+          "year": 2025,
+          "date": "2025-12-31",
+          "year_end_nav": 15.8678,
+          "annual_return_pct": -1.97,
+          "observations": 247
+        },
+        {
+          "year": 2026,
+          "date": "2026-09-25",
+          "year_end_nav": 15.5211,
+          "annual_return_pct": -2.18,
+          "observations": 182
+        }
+      ]
+    }
+  }
+}
